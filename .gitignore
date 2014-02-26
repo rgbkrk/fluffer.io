@@ -3,6 +3,9 @@
 # C extensions
 *.so
 
+# Build
+www/
+
 # Packages
 *.egg
 *.egg-info
